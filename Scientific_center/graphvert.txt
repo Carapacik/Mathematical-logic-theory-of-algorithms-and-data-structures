@@ -1,0 +1,11 @@
+1 3 lllssa
+2 4 doroga
+3 7 stol
+4 1 zabor
+5 2 stena
+6 3 krisha
+7 4 okno
+8 3 ssa
+9 3 okraska
+10 2 uborka
+11 0 konec
